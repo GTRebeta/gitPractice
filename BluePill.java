@@ -22,7 +22,7 @@ public class BluePill extends Pill
     public void message()
     {
         System.out.println("You awake in your bed, believing"
-                           + "whatever you want to believe.");
+                           + " whatever you want to believe.");
     }
 }
 ////////////////////////////////////////////////////////////////
